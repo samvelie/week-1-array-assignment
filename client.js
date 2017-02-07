@@ -9,6 +9,7 @@ console.log(concatenatorFromPoint(arrayTestOne, 2));
 console.log(concatenatorFromPoint(arrayTestOne, 0));
 console.log(concatenatorFromPoint(arrayTestTwo, 2));
 console.log(concatenatorFromPoint(arrayTestThree, 0));
+console.log(concatenatorFromPoint(arrayTestThree, 2));
 
 /* The concatenating function itself. This loops over the array starting at the
 input number a's index, and outputs a string composed of the array's remaining elements */
